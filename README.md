@@ -1,4 +1,4 @@
-# Uzi-Chatbot
+# Chatbot
 -------------
 Uzi, a simple and minimal open-source chatbot created using python
 ------------------------------------------------------------------
